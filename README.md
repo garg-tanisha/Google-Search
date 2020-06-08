@@ -4,7 +4,7 @@ Tasks :
 1) Google search - fill in the query and enter (keyboard)
 2) Uses browser's forward, backward and refresh functions
 
-Description :
+WorkFlow :
 1) Opens up the browser
 2) Go to the Url "http://google.com"
 3) Maximize browser
